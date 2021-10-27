@@ -1,4 +1,4 @@
 ###### Requirements without Version Specifiers ######`
-simpletransformers
+simpletransformers==0.61.14
 sentence-transformers
-
+emoji
