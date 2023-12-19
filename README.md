@@ -1,4 +1,6 @@
-# Emotion Analysis on Arabic Tweets: Research Implementation
+![Logo](images/image.png)
+
+# Sentiment & Emotion Analysis in Arabic
 
 This repository contains the implementation of key research findings in the field of emotion analysis on Arabic tweets. The code here is developed based on the methodologies and insights drawn from the following research papers:
 
