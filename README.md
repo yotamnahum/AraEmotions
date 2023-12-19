@@ -1,4 +1,4 @@
-![Logo](images/image.png)
+![Logo](image.png)
 
 # Sentiment & Emotion Analysis in Arabic
 
