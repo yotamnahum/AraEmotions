@@ -2,8 +2,8 @@
 
 This repository contains the implementation of key research findings in the field of emotion analysis on Arabic tweets. The code here is developed based on the methodologies and insights drawn from the following research papers:
 
-1. Love Me, Love Me Not: Human-Directed Sentiment Analysis in Arabic. Y Nahum, A Israeli, S Fine, K Bar - Proceedings of the Third International Workshop on NLP Solutions for Under Resourced Languages, 2022. [Link to Paper](https://aclanthology.org/2022.nsurl-1.4.pdf)
-2. The idc system for sentiment classification and sarcasm detection in Arabic. A Israeli, Y Nahum, S Fine, K Bar - Proceedings of the Sixth Arabic Natural Language Processing Workshop, 2021. [Link to Paper](https://aclanthology.org/2021.wanlp-1.48/)
+1. [Love Me, Love Me Not: Human-Directed Sentiment Analysis in Arabic](https://aclanthology.org/2022.nsurl-1.4.pdf) Y Nahum, A Israeli, S Fine, K Bar - Proceedings of the Third International Workshop on NLP Solutions for Under Resourced Languages, 2022.
+2. [The idc system for sentiment classification and sarcasm detection in Arabic](https://aclanthology.org/2021.wanlp-1.48/) A Israeli, Y Nahum, S Fine, K Bar - Proceedings of the Sixth Arabic Natural Language Processing Workshop, 2021.
 
 The codebase provided here is designed to closely follow the approaches and techniques discussed in these papers, offering a practical application and demonstration of their theoretical concepts in natural language processing and sentiment analysis.
 
