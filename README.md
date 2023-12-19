@@ -1,5 +1,3 @@
-![Logo](image.png)
-
 # Sentiment & Emotion Analysis in Arabic
 
 This repository contains the implementation of key research findings in the field of emotion analysis on Arabic tweets. The code here is developed based on the methodologies and insights drawn from the following research papers:
@@ -10,6 +8,7 @@ Y Nahum, A Israeli, S Fine, K Bar - Proceedings of the Third International Works
 A Israeli, Y Nahum, S Fine, K Bar - Proceedings of the Sixth Arabic Natural Language Processing Workshop, 2021.
 
 The codebase provided here is designed to closely follow the approaches and techniques discussed in these papers, offering a practical application and demonstration of their theoretical concepts in natural language processing and sentiment analysis.
+![Logo](logo.png)
 
 ## Usage example
 ### Install packages
